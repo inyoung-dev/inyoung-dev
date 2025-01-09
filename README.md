@@ -28,8 +28,8 @@
 
 
 ## 📫Contact📫
-<a href="20212908@soongsil.ac.kr">
-  <img
-    src="https://img.shields.io/badge/inzero1998@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
-</a>
+<a href="mailto:inzero1998@gmail.com">
+    <img
+      src="https://img.shields.io/badge/inzero1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 

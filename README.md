@@ -9,7 +9,7 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inzero1998" />
 
 </p>
-## 🙋‍♂️ About Me 🙋‍♂️
+ 🙋‍♂️ About Me 🙋‍♂️
 
 - 📚 저는 현재 **JavaScript, CSS, HTML** 을 공부하고 있습니다.
 - ⚡ 저에 대한 자세한 자기소개는 프로젝트에서 확인할 수 있습니다. **[My Projects](https://github.com/inyoung-dev/portfolio)**

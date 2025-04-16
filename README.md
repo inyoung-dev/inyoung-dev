@@ -7,7 +7,8 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=inyoung-dev&show_icons=true&theme=radical" />
 <br>
-![Programmers Badge](https://raw.githubusercontent.com/inyoung-dev/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge]
+(https://raw.githubusercontent.com/inyoung-dev/Programmers_Badge_Generator/main/result/result.svg)
 
 </p>
 

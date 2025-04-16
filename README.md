@@ -7,8 +7,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=inyoung-dev&show_icons=true&theme=radical" />
 <br>
-![Programmers Badge]
-(https://raw.githubusercontent.com/inyoung-dev/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge] (https://raw.githubusercontent.com/inyoung-dev/Programmers_Badge_Generator/main/result/result.svg)
 
 </p>
 
@@ -33,7 +32,6 @@
 
 ## 📫Contact📫
 <a href="mailto:inzero1998@gmail.com">
-    <img
-      src="https://img.shields.io/badge/inzero1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/inzero1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+</a>
 

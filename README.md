@@ -6,7 +6,8 @@
 <h3 align="center">저는 프론트엔드를 꿈꾸는 개발자입니다.</h3>
   
 <img src="https://github-readme-stats.vercel.app/api?username=inyoung-dev&show_icons=true&theme=radical" />
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=inzero1998" />
+<br>
+![Programmers Badge](https://raw.githubusercontent.com/inyoung-dev/Programmers_Badge_Generator/main/result/result.svg)
 
 </p>
 
